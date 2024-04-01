@@ -59,7 +59,7 @@ Replace `[hostname]`, `[username]`, and `[password]` with your actual PostgreSQL
 Run the script from your terminal:
 
 ```bash
-python campaign_management_tool.py
+python3 main.py
 ```
 
 Follow the on-screen prompts to interact with the database.
